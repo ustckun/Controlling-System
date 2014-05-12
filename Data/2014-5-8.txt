@@ -1,0 +1,8 @@
+NO.1: ;Value: 132.321000 ;String: hello ;Other: Hello
+NO.2: ;Value: 132.321000 ;String: hello ;Other: Hello
+NO.3: ;Value: 3243.231000 ;String: hello ;Other: Hello
+NO.4: ;Value: 3243.231000 ;String: hello ;Other: Hello
+NO.5: ;Value: 3243.231000 ;String: hello ;Other: Hello
+NO.6: ;Value: 3243.231000 ;String: hello ;Other: Hello
+NO.7: ;Value: 3243.231000 ;String: hello ;Other: Hello
+NO.8: ;Value: 3243.231000 ;String: hello ;Other: Hello
